@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "586376339373",
+    "project_id": "fir-tasksample",
+    "storage_bucket": "fir-tasksample.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:586376339373:android:ec7e07b1549082b490cb24",
+        "android_client_info": {
+          "package_name": "com.akhi00.loginm"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBLIdMXbv0p2aJeoU9pbowkXs099Uy4FGA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
